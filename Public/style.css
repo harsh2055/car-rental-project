@@ -1,0 +1,5 @@
+/* 3) public/styles.css */
+body{ font-family: system-ui, Arial; margin: 12px; }
+header{ margin-bottom: 16px }
+.car{ border: 1px solid #ddd; padding: 12px; margin-bottom: 12px; border-radius: 8px }
+button{ padding: 8px 12px; border-radius: 6px; cursor: pointer }
